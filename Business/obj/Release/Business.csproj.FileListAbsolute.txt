@@ -1,0 +1,12 @@
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\Business.dll.config
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\Business.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\Business.pdb
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\Data.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\EntityFramework.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\Data.pdb
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\EntityFramework.xml
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\obj\Release\Business.csprojResolveAssemblyReference.cache
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\obj\Release\Business.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Business\obj\Release\Business.pdb

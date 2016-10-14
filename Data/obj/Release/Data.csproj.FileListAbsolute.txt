@@ -1,0 +1,13 @@
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\bin\Release\Data.dll.config
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\bin\Release\Data.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\bin\Release\Data.pdb
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\bin\Release\EntityFramework.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\bin\Release\EntityFramework.xml
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\obj\Release\Data.Migrations.ProductAndSupplier.resources
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\obj\Release\Data.Migrations.CheckPoint.resources
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\obj\Release\Data.csproj.GenerateResource.Cache
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\obj\Release\Data.dll
+C:\Users\EMDI\Downloads\skill_test_audition_mvc\Audition\Data\obj\Release\Data.pdb
